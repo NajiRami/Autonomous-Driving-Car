@@ -64,6 +64,8 @@ This project aims to simulate an *Autonomous Driving Car* that can detect and lo
 ## ⚙ Installation  
 
 ```bash
+git lfs install #⬅️If it's not installed in your machine.
+
 # 1️⃣ Clone the repository
 git clone https://github.com/your-username/autonomous-driving-car.git
 
