@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AI Car Banner](https://your-image-link-here.com/banner.png)  
+![AI Car Banner](./nb_images/proba_map.png)  
 ✨ Smart Vision for Smarter Roads! ✨  
 
 </div>
@@ -43,8 +43,8 @@ This project aims to simulate an *Autonomous Driving Car* that can detect and lo
 ### 🔹 Before Prediction  
 <div align="center">
   
-![Before 1](https://your-image-link-here.com/before1.png)  
-![Before 2](https://your-image-link-here.com/before2.png)  
+![Before 1](./images/0007.jpg)  
+![Before 2](./images/test.jpg)  
 
 </div>
 
@@ -53,8 +53,8 @@ This project aims to simulate an *Autonomous Driving Car* that can detect and lo
 ### 🔸 After Prediction  
 <div align="center">
   
-![After 1](https://your-image-link-here.com/after1.png)  
-![After 2](https://your-image-link-here.com/after2.png)  
+![After 1](./out/annotated.jpg)  
+![After 2](./out/test.jpg)  
 
 </div>
 
