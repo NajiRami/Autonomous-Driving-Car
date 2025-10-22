@@ -67,10 +67,10 @@ This project aims to simulate an *Autonomous Driving Car* that can detect and lo
 git lfs install #⬅️If it's not installed in your machine.
 
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/autonomous-driving-car.git
+git clone https://github.com/NajiRami/Autonomous-Driving-Car.git
 
 # 2️⃣ Navigate to the project directory
-cd autonomous-driving-car
+cd Autonomous-Driving-Car
 
 # 3️⃣ Install dependencies
 pip install -r requirements.txt
